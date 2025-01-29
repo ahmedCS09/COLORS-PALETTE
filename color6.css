@@ -1,0 +1,148 @@
+@media  (max-width:400px)
+{
+    .divv
+    {
+        width: 200px;
+        border: none;
+        font-size: 10px;
+    }
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    z-index: 0;
+}
+*
+{
+    box-sizing: border-box;
+}
+.parentMost
+{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main
+{
+    width: 95%;
+    height: 95%;
+}
+.row
+{
+    width: 100%;
+    height: 25%;
+    display: flex;
+}
+button{
+    width: 5%;
+    height: 5%;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: fixed;
+    z-index: 1;
+    top: 1%;
+    left: 1%;
+    cursor: pointer;
+}
+a{
+    text-decoration: none;
+}
+a:visited
+{
+    color: black;
+}
+.divv
+{
+    width: 20%;
+    height: 100%;
+    padding: 8% 0% 0% 6%;
+    color: white;
+    font-weight: bold;
+}
+.div1
+{
+    background-color: #eccc68;
+}
+.div2
+{
+    background-color: #ff7f50;
+}
+.div3
+{
+    background-color: #ff6b81;
+}
+.div4
+{
+    background-color: #a4b0be;
+}
+.div5
+{
+    background-color: #57606f;
+}
+.div6
+{
+    background-color: #ffa502;
+}
+.div7
+{
+    background-color: #ff6348;
+}
+.div8
+{
+    background-color: #ff4757;
+}
+.div9
+{
+    background-color: #747d8c;
+}
+.div10
+{
+    background-color: #2f3542;
+}
+.div11
+{
+    background-color: #7bed9f;
+}
+.div12
+{
+    background-color: #70a1ff;
+}
+.div13
+{
+    background-color: #5352ed;
+}
+.div14
+{
+    background-color: #ffffff;
+}
+.div15
+{
+    background-color: #dfe4ea;
+}
+.div16
+{
+    background-color: #2ed573;
+}
+.div17
+{
+    background-color: #1e90ff;
+}
+.div18
+{
+    background-color: #3742fa;
+}
+.div19
+{
+    background-color: #f1f2f6;
+}
+.div20
+{
+    background-color: #ced6e0;
+}
